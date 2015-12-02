@@ -1,0 +1,137 @@
+* {
+	outline:1px solid green } 
+
+h3 p {
+font-family: 'Dosis';}
+
+.header {
+	 
+	background: url("../img/background/hero.jpg") center 0 ;
+	background-size: cover;
+	text-align: center;
+	color: #fff;
+	height: 100%
+}
+.fon1{
+	background: rgba(0,0,0,0.5);
+	width: 100%;
+	height:800px;
+}
+
+.menu li {
+display:inline-block;
+list-style: none;
+margin-top: 20px;
+margin-bottom: 10px;
+}
+.menu a { 
+	
+	padding: 5px 10px;
+	color: white;
+	font-family: "oswald" , arial , sans-serif;
+	text-transform: uppercase; /*para poner mayusuculas*/
+	text-decoration: none;
+	list-style: none;
+	transition: all 0.5s;
+}
+
+.menu a:hover {
+	text-decoration: none;
+	background: black;
+	transform: scale(1.2);
+}
+.cont {
+	padding-top : 15%;
+	padding-bottom: 5%;
+	font-size: 50px;
+
+}
+.btn {
+	background-color: black;
+	font-size: 15px;
+	margin: 20px;
+}
+
+
+.img2 {
+	background:#E6E6E6; 
+	height:650%;
+	width: 100%;
+	padding-top: 5%;
+	
+	
+}
+.ico {
+	color: #0EA0A8;
+	font-size: 30px;
+	padding: 3%;
+}
+
+
+.menu_por li{
+	
+	background-color: #fff;
+	display:inline-block;
+	list-style: none;
+	margin: 20px;
+
+}
+.menu_por a{
+	color: black;
+	text-decoration: none;
+}
+
+.con_portafolio {
+	text-align: center;
+	background:#E6E6E6; 
+	padding-top: 5%;
+}
+
+
+
+
+.fon2 {
+	background: url("../img/background/city.jpg") center 0 ;
+	background-size: cover;
+	text-align: center;
+	color: #fff;
+	height: 100%
+}
+.fon_2{
+	background: rgba(0,0,0,0.5);
+	width: 100%;
+	height:400px;
+}
+.fon_2 h4 {
+	padding-top: 20%;
+}
+
+
+.stan{
+	background-color: black;
+	color: #fff;
+	padding: 12%;
+	font-size: 25px;
+}
+.premi{
+	background-color: #1CC2D7;
+	color: #fff;
+	padding: 12%;
+	font-size: 25px;
+}
+
+.fr_s{
+	background-color:#D8D8D8;
+	
+}
+
+.cont_cir {
+	text-align: center;
+	padding: 10%;
+
+}
+.img-cir{
+	
+	height: 15%;
+	width: 15%;
+}
