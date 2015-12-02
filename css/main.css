@@ -147,6 +147,11 @@ margin-bottom: 10px;
 
 }
 
+
+.form-group {
+	background-color: rgb(0,0,255); opacity: 0.3;
+}
+
 .fon_3{
 	background: rgba(0,0,0,0.5);
 	width: 100%;
